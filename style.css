@@ -35,7 +35,8 @@
   border-width: 5px;
 }
 
-th, td {
+th,
+td {
   border: 1px solid black;
   text-align: center;
 }
